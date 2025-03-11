@@ -23,6 +23,11 @@
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+
+<div>
+<a href="https://github.com/AnnaBia13">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBia13&layout=compact&langs_count=7&theme=dracula"/>
+</div>
           
 ## Contatos:
 

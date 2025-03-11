@@ -1,6 +1,8 @@
 # Olá, me chamo Anna Beatriz! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+![Snake animation](https://github.com/AnnaBia13/AnnaBia13/blob/output/github-contribution-grid-snake.svg)
+
 🚀 Desenvolvedora apaixonada por tecnologia | 💡 Entusiasta de inovação  
 📚 Sempre aprendendo algo novo | 🎯 Focada em evolução constante  
 
